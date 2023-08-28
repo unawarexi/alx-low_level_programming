@@ -1,2 +1,6 @@
 # Ignore .c files
 *.c
+
+# But don't ignore these specific .c files
+!win.c
+!100-operations.c
